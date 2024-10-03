@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: alpha_project
+Version: 0.0.1
+Author: shripad pate
+Author-email: shripadpate20@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn

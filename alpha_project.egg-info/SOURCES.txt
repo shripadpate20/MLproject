@@ -1,0 +1,8 @@
+README.md
+setup.py
+alpha_project.egg-info/PKG-INFO
+alpha_project.egg-info/SOURCES.txt
+alpha_project.egg-info/dependency_links.txt
+alpha_project.egg-info/requires.txt
+alpha_project.egg-info/top_level.txt
+src/__init__.py
